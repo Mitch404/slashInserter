@@ -1,4 +1,4 @@
-#README
+# README
 
 ## Building
 Use build.ps1, make sure to update target directory within the script for where you want the resulting exe.
